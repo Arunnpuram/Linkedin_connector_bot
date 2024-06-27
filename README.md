@@ -18,7 +18,7 @@ python --version
 pip install selenium
 ```
 ```bash
-python Run_me.py
+python Linkedin_connector_bot.py
 ```
 📍 Just enter your Username and Password!!
  
